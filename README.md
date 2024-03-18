@@ -17,3 +17,8 @@ https://github.com/zgeblbl/zigzag_HyperCasual/assets/117914215/06ce7969-e50f-4a3
 - I made the collectible awards torus shaped moving and rotating items with code (Primitives.cs script).
   
 ![torus](https://github.com/zgeblbl/zigzag_HyperCasual/assets/117914215/a246475f-1a83-4254-8f84-a485849ba017)
+
+- I added a particle system for when the player loses. This occurs when the ball leaves the map. I used raycast detector to detect if the ball has left the platform.
+
+https://github.com/zgeblbl/zigzag_HyperCasual/assets/117914215/37d67d09-7b02-499f-a866-991d05b30e9d
+
